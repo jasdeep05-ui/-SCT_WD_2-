@@ -1,29 +1,26 @@
-🚀 Task 1 — Responsive Landing Page (SCT_WD_1)
-🌐 Responsive Landing Page — SCT_WD_1
-This repository contains my Task 1 project for the internship at SkillCraft Technology, where I created a responsive landing page with an interactive navigation menu using HTML, CSS, and JavaScript.
+⏱️ Stopwatch Web Application — SCT_WD_2
+This repository contains my Task 2 project for the internship at SkillCraft Technology, where I developed a functional, user-friendly stopwatch web application using HTML, CSS, and JavaScript.
 
 🚀 Features
-✅ Interactive navigation menu:
-
-Changes style on scroll
-
-Highlights on hover
-✅ Fixed (sticky) navbar visible on all pages
-✅ Clean, modern design
-✅ Fully responsive across mobile, tablet, and desktop devices
+✅ Start, pause, and reset the stopwatch
+✅ Record lap times and display them dynamically
+✅ Accurate time tracking using setInterval
+✅ Clean and intuitive UI
+✅ Fully responsive on all devices
 
 🛠️ Tech Stack
-HTML5 for page structure
+HTML5 for structure
 
-CSS3 (Flexbox & Grid) for styling and layout
+CSS3 for styling and responsiveness
 
-JavaScript for scroll-based interactivity and menu styling
+JavaScript (ES6) for timing functions and DOM updates
 
 💡 What I Learned
-Improved skills in responsive web design using media queries
+Managed time intervals and event listeners effectively
 
-Implemented dynamic style changes with JavaScript on scroll events
+Implemented lap recording features with dynamic DOM manipulation
 
-Used CSS transitions and pseudo-classes for smooth hover effects
+Built reusable, modular functions for start, pause, reset, and lap functionality
 
-Practiced sticky positioning to keep the navbar always accessible
+Debugged timing issues to ensure accurate stopwatch performance
+
