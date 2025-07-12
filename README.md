@@ -1,3 +1,4 @@
+⏱️ Task 2 — Stopwatch Web Application (SCT_WD_2)
 ⏱️ Stopwatch Web Application — SCT_WD_2
 This repository contains my Task 2 project for the internship at SkillCraft Technology, where I developed a functional, user-friendly stopwatch web application using HTML, CSS, and JavaScript.
 
